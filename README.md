@@ -4,4 +4,5 @@
 
 
 **Figure 1**
+
 ![CheckoutTimesbyGender](CheckoutTimesbyGender.png)
