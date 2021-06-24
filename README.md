@@ -9,7 +9,7 @@ The purpose of this analysis was to analyze the Citibike bikesharing program in 
 
 ## Results
 
-![CheckoutTimesforUsers](CheckoutTimeforUsers.png)
+![CheckoutTimesforUsers](CheckoutTimesforUsers.png)
 
 Most rides were under 20 minutes, with peak rides lasting only 5 minutes.
 
