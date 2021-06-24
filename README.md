@@ -9,9 +9,29 @@ The purpose of this analysis was to analyze the Citibike bikesharing program in 
 
 ## Results
 
-**Figure 1**
+![CheckoutTimesforUsers](CheckoutTimeforUsers.png)
+
+Most rides were under 20 minutes, with peak rides lasting only 5 minutes.
 
 ![CheckoutTimesbyGender](CheckoutTimesbyGender.png)
+
+The pattern of ride duration is consistent across the genders.
+
+![GenderBreakdown](GenderBreakdown.png)
+
+65% of riders are males.
+
+![TopStartingLocations](TopStartingLocations.png)
+
+Rides were concentrated in Manhattan, specifically in neighborhoods dominated by office spaces and tourist attractions.
+
+
+
+
+![TripsbyGenderWeekdayperHour](TripsbyGenderWeekdayperHour.png)
+
+
+
 
 
 ## Summary
