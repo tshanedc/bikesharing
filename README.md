@@ -34,6 +34,7 @@ Traditional rush hour was when ridership peaked suggesting that many users utili
 The heavy concentration of rides within the traditional rush hour was consistent across genders, though the female utilization was dwarfed by male ridership.
 
 ![UserTripsbyGenderbyWeekday](UserTripsbyGenderbyWeekday.png)
+
 This visualization confirms that males who subscirbe to the bikesharing service utilze it the most.
 
 ## Summary
